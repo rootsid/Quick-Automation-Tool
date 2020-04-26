@@ -1,0 +1,5 @@
+Type,Button,Coordinates,WaitTime
+Press,Button.right,"(1601, 1066)",0.3
+Release,Button.right,"(1601, 1066)",0.0
+Press,Button.left,"(1647, 630)",0.3
+Release,Button.left,"(1647, 630)",0.0

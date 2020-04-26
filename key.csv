@@ -1,0 +1,5 @@
+Type,Button,Coordinates,WaitTime
+Press,Key.cmd,,0.2
+Release,Key.cmd,,0.0
+Press,Key.cmd,,0.2
+Release,Key.cmd,,0.0
